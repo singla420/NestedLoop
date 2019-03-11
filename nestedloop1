@@ -1,0 +1,21 @@
+
+public class nested
+{
+    // instance variables - replace the example below with your own
+    
+    public static void main(String args[])
+    {
+        // put your code here
+        for(int i=1; i<=6;i++)
+        {
+            for(int j=66;j<=68;j++)
+            
+            {
+                System.out.print(j);
+            }
+            System.out.println();
+            
+        }
+     
+    }
+}
